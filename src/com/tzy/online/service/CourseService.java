@@ -1,4 +1,4 @@
-package com.tzy.online.service.impl;
+package com.tzy.online.service;
 
 import java.util.Iterator;
 import java.util.List;
@@ -6,7 +6,6 @@ import java.util.List;
 import com.tzy.online.dao.ICourseDAO;
 import com.tzy.online.dao.impl.CourseDAO;
 import com.tzy.online.entity.Course;
-import com.tzy.online.service.ICourseService;
 
 public class CourseService implements ICourseService {
 	

@@ -9,8 +9,8 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.tzy.online.entity.Course;
-import com.tzy.online.service.ICourseService;
-import com.tzy.online.service.impl.CourseService;;
+import com.tzy.online.service.CourseService;
+import com.tzy.online.service.ICourseService;;
 
 public class Test04CourseService {
 
